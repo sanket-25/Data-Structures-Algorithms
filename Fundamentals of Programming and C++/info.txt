@@ -1,0 +1,9 @@
+Topics Covered ->
+
+-> Why we code
+-> Flowchart & Pseudocode
+-> Deep Basics
+-> If else
+-> Loops
+-> Patterns
+-> Functions
